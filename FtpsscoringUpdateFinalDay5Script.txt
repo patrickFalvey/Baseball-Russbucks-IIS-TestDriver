@@ -1,0 +1,5 @@
+open 127.0.0.1
+RussbucksBaseball
+Boatin_123
+put .\scoringUpdateFinalDay5.xml
+quit
